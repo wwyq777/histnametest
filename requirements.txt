@@ -1,0 +1,7 @@
+pyTelegramBotAPI
+psutil
+flask
+requests
+discord.py==2.6.4
+TikTokLive==6.6.5
+yt-dlp==2023.12.30
